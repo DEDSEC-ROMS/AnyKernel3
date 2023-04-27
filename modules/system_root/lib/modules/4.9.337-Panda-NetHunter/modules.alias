@@ -1,0 +1,4 @@
+# Aliases extracted from modules themselves.
+alias nf-nat-10 nf_nat_ipv6
+alias ip6t_SNPT ip6t_NPT
+alias ip6t_DNPT ip6t_NPT

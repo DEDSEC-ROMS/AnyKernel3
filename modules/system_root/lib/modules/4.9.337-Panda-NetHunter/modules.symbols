@@ -1,0 +1,9 @@
+# Aliases for symbols, used by symbol_request().
+alias symbol:nf_nat_ipv6_out nf_nat_ipv6
+alias symbol:nf_nat_masquerade_ipv6_unregister_notifier nf_nat_masquerade_ipv6
+alias symbol:nf_nat_icmpv6_reply_translation nf_nat_ipv6
+alias symbol:nf_nat_ipv6_in nf_nat_ipv6
+alias symbol:nf_nat_ipv6_local_fn nf_nat_ipv6
+alias symbol:nf_nat_masquerade_ipv6 nf_nat_masquerade_ipv6
+alias symbol:nf_nat_masquerade_ipv6_register_notifier nf_nat_masquerade_ipv6
+alias symbol:nf_nat_ipv6_fn nf_nat_ipv6
